@@ -62,7 +62,7 @@ jQuery(document).ready(function ($) {
     });
     
 //fancybox
-    $(".youtube-media").on("click", function(e) {
+   /* $(".youtube-media").on("click", function(e) {
 		var jWindow = $(window).width();
 		if (jWindow <= 410) {
 			return;
@@ -75,7 +75,7 @@ jQuery(document).ready(function ($) {
 		});
 		return false;
 	});
-
+*/
 
 // magnificPopup
 
