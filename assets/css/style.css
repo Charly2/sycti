@@ -723,7 +723,7 @@ input::-ms-input-placeholder {
 }
 
 .service .single_service .single_service_icon{
-    margin-bottom: 25px;
+    margin-bottom: 5px;
 }
 .service .single_service .single_service_icon i{
     color:#41C2D5;
