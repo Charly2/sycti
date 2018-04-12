@@ -2,8 +2,8 @@
 jQuery(document).ready(function ($) {
 
     $(window).load(function () {
-        $(".loaded").fadeOut();
-        $(".preloader").delay(20).fadeOut(100);
+       $(".loaded").fadeOut(0);
+       $(".preloader").fadeOut(0);
     });
     /*---------------------------------------------*
      * Mobile menu
