@@ -587,7 +587,8 @@ input::-ms-input-placeholder {
 }
 .team .single_team_content .single_team_text h4 {
     margin-bottom:0rem;
-    display:inline-block
+    display:inline-block;
+    font-size: 1rem;
 }
 .team .single_team_content .single_team_text p {
   text-transform: uppercase;
