@@ -25,7 +25,7 @@
 
 
 
-/*
+/* as
 jQuery Waypoints - v2.0.3
 Copyright (c) 2011-2013 Caleb Troughton
 Dual licensed under the MIT license and GPL license.
