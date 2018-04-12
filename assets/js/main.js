@@ -3,7 +3,7 @@ jQuery(document).ready(function ($) {
 
     $(window).load(function () {
         $(".loaded").fadeOut();
-        $(".preloader").delay(200).fadeOut("slow");
+        $(".preloader").delay(20).fadeOut(100);
     });
     /*---------------------------------------------*
      * Mobile menu
