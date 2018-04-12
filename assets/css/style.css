@@ -589,6 +589,9 @@ input::-ms-input-placeholder {
     margin-bottom:0rem;
     display:inline-block
 }
+.team .single_team_content .single_team_text p {
+  text-transform: uppercase;
+}
 .team .team_hiring_area {
     margin-top:60px
 }
@@ -966,4 +969,20 @@ input::-ms-input-placeholder {
     
     background: #41C2D5;
     transition: all .3s;
+}
+
+.w25{
+    width: 20%!important;
+    min-height: 500px!important;
+    padding: 0 0 0 15px ;
+}
+
+
+
+
+
+
+.main_team {
+   /* padding-left: 5px!important;*/
+   padding-right: 15px!important;
 }
